@@ -2,11 +2,11 @@ package Stack;
 
 import java.util.Stack;
 
-public class Mystack2 {
+public class MyStack2 {
 	private Stack<Integer> StackData;
 	private Stack<Integer> StackMin;
 	
-	public Mystack2(){
+	public MyStack2(){
 		this.StackData = new Stack<Integer>();
 		this.StackMin = new Stack<Integer>();
 	}
